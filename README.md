@@ -3,8 +3,8 @@
 
 Kelompok:
 1. Nugroho Adi Prasetyo (231240001469)
-2. Rifki (
-3. Ilma Luthfi (
+2. Muhammad Rifki Maulana (221240001317)
+3. Ilma Luthfi Nur Rochim (221240001346)
 
 
 requirement:
